@@ -1,0 +1,58 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+react_mlm/node_modules
+react_mlm/.pnp
+react_mlm/.pnp.js
+
+# testing
+react_mlm/coverage
+
+# production
+react_mlm/build
+
+# misc
+react_mlm/.DS_Store
+react_mlm/.env.local
+react_mlm/.env.development.local
+react_mlm/.env.test.local
+react_mlm/.env.production.local
+
+react_mlm/npm-debug.log*
+react_mlm/yarn-debug.log*
+react_mlm/yarn-error.log*
+
+
+mlmboot/HELP.md
+mlmboot/target/
+!mlmboot/.mvn/wrapper/maven-wrapper.jar
+!**mlmboot/src/main/**/target/
+!**mlmboot/src/test/**/target/
+
+### STS ###
+mlmboot/.apt_generated
+mlmboot/.classpath
+mlmboot/.factorypath
+mlmboot/.project
+mlmboot/.settings
+mlmboot/.springBeans
+mlmboot/.sts4-cache
+
+### IntelliJ IDEA ###
+mlmboot/.idea
+mlmboot/*.iws
+mlmboot/*.iml
+mlmboot/*.ipr
+
+### NetBeans ###
+mlmboot/nbproject/private/
+mlmboot/nbbuild/
+mlmboot/dist/
+mlmboot/nbdist/
+mlmboot/.nb-gradle/
+mlmboot/build/
+!**mlmboot/src/main/**/build/
+!**mlmboot/src/test/**/build/
+
+### VS Code ###
+mlmboot/.vscode/

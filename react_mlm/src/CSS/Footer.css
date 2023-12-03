@@ -1,0 +1,19 @@
+.footer {
+    /* background-color: #ff9916; */
+    background-color: black;
+    color: #fffdfd;
+    padding: 10px 0;
+    text-align: center;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    /* z-index: -1; */
+    height:50px;
+
+    > p{
+        /* color: black; */
+        color:white;
+        margin:4px;    
+    }
+}
+

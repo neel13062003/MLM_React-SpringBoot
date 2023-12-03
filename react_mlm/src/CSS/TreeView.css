@@ -1,0 +1,52 @@
+.add-container {
+    max-width: 1000px;
+    margin: 50px auto;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    color:white;
+    background-color: black;
+  }
+  
+  .add-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:10px;
+    padding:10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin:10px;
+    padding:10px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 900px;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .btn1 {
+    background-color: #1b27d2;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn1:hover {
+    background-color: rgb(7, 0, 205);
+  }
