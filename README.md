@@ -1,4 +1,4 @@
-**Frontend = React JS**
+**Frontend = React JS & Backend = Spring Boot**
 
 <li> 1) Login/Signup Authentication </li>
 <li> 2) Add Investment Team </li>
@@ -15,7 +15,9 @@
 <br/>
 <br/>
 <br/>
-**Backend = Spring Boot**
+
+
+
 
 
 <li>1) Login API 
